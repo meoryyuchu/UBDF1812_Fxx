@@ -152,15 +152,16 @@ body .active{
 .ticktenBox{
     width: 1180px;
     height: 410px;
-    border: 3px solid black;
+    border: 1px solid black;
     margin: 10px auto;
 }
 .tickten{
     float: left;
     width: 275px;
     height: 165px;
-    border: 3px solid black;
     margin: 20px 7px;
+    background: url("../images/jipiao.png") no-repeat -3px -5px ;
+    background-size: 550px 220px;
 }
 .city{
     height: 55px;
@@ -178,6 +179,4 @@ body .active{
     height: 50px;
     text-align: center;
     line-height: 50px;
-    font-size: 16px;
-}
-
+    font-siz
